@@ -10,7 +10,7 @@ The parts necessary to build the system are:
 * Servo (small)
 * Arduino
 * Jumper wires
-* Ultrasonic sensor _opt_
+* Ultrasonic sensor (_optional_)
 * 9V battery
 * Relay
 * Aquarium pump
