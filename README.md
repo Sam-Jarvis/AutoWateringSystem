@@ -14,3 +14,12 @@ The parts necessary to build the system are:
 * 9V battery
 * Relay
 * Aquarium pump
+
+To summarize the system, the relay control an aquarium pump that is placed in a reservoir of water. The relay is controlled by the Arduino which is powered by the 9V battery. The time interval between watering is set using the potentiometer.<br>  
+
+The parts are assembled inside the 3D printed base and connected together like this (also in the technical report):
+### Circuit Diagram
+![Image of msn-lsn](https://github.com/Sam-Jarvis/AutoWateringSystem/blob/master/ImagesForDocumentation/CircuitDiagram.png?raw=true)<br>
+
+### Example Circuit
+![Image of msn-lsn](https://github.com/Sam-Jarvis/AutoWateringSystem/blob/master/ImagesForDocumentation/CircuitExample.png?raw=true)<br>
