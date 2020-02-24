@@ -15,7 +15,7 @@ The parts necessary to build the system are:
 * Relay
 * Aquarium pump
 
-To summarize the system, the relay control an aquarium pump that is placed in a reservoir of water. The relay is controlled by the Arduino which is powered by the 9V battery. The time interval between watering is set using the potentiometer.<br>  
+Details of the project can be found in the technical report but to summarize the system, the relay control an aquarium pump that is placed in a reservoir of water. The relay is controlled by the Arduino which is powered by the 9V battery. The time interval between watering is set using the potentiometer.<br>  
 
 The parts are assembled inside the 3D printed base and connected together like this (also in the technical report):
 ### Circuit Diagram
